@@ -1,6 +1,6 @@
 package minor_project;
 
-import com.mysql.cj.xdevapi.Result;
+//import com.mysql.cj.xdevapi.Result;
 import java.beans.Statement;
 import javax.swing.JOptionPane;
 import java.sql.DriverManager;
